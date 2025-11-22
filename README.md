@@ -95,9 +95,13 @@ CGPA      : 8.2
 Skills    : java,spring,sql
 
 ===== IT Placement Result =====
+
 Name: chaitali
+
 Eligible: YES
+
 Salary Offered: 532000.00
+
 Required Skills: Java, SQL, Spring
 
 ---
